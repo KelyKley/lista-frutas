@@ -9,7 +9,11 @@
  3) Creamos tres archivos, un __*index.html*__ , __*javascript.js*__ , __*main.css*__ y las colocamos donde correspondan.
 
  >*carpeta __js__* / archivo __javascript__ .
+
  > *carpeta __css__* / archivo __main.css__.
+
  > El __index.html__ va fuera de las carpetas.
+
  >Recordar las extenciones de los archivos creados.
+
  
