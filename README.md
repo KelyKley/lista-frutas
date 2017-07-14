@@ -8,9 +8,6 @@
 
  3) Creamos tres archivos, un __*index.html*__ , __*javascript.js*__ , __*main.css*__ y las colocamos donde correspondan.
 
- ![alt text](https://github.com/KelyKley/lista-frutas/blob/master/leccion-13/assets/img/primero.png)
-
-
  > *carpeta __js__* / archivo __javascript__ .
 
  > *carpeta __css__* / archivo __main.css__.
@@ -22,14 +19,12 @@
  ***
  ### __SEGUNDO :__
 
-
-
-
-
  ***
  ### __ TERCERO :__
  1) Creamos un repositorio *lista-frutas* en Github.
  2) Clonamos nuestro repositorio.
 
  > No olvidemos añadir el __*README.md*__.
-#repo
+
+
+ ![alt text](https://github.com/KelyKley/lista-frutas/blob/master/leccion-13/assets/img/primero.png)
