@@ -40,4 +40,4 @@
 
 ##### __FINALMENTE :__
 Esta es una vista previa de mi proyecto *Lista de Frutas*.
-![alt text]()
+![alt text](https://github.com/KelyKley/lista-frutas/blob/master/leccion-13/assets/img/finalproyecto.png)
