@@ -31,7 +31,7 @@
 ![alt text](https://github.com/KelyKley/lista-frutas/blob/master/leccion-13/assets/img/mainCSS.png)
 
  ***
- ### __ TERCERO :__
+ ### __TERCERO :__
  1) Creamos un repositorio *lista-frutas* en Github.
  2) Clonamos nuestro repositorio.
  3) *Pusheamos* los cambios hechos en los archivos de nuestro proyecto.
